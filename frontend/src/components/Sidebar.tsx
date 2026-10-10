@@ -109,7 +109,7 @@ export const Sidebar: React.FC = () => {
         <div className="text-center text-[10px] text-slate-400 dark:text-slate-500 font-medium leading-relaxed pt-1">
           Made with <span className="text-rose-500">❤️</span> for <span className="font-bold text-slate-700 dark:text-slate-300">DBTHON'26</span>
           <br />
-          by <span className="font-bold text-emerald-600 dark:text-emerald-400">Sai Nikhit</span> &amp; <span className="font-bold text-blue-600 dark:text-blue-400">Sohan</span>
+          by <span className="font-bold text-blue-600 dark:text-blue-400">Sohan</span> &amp; <span className="font-bold text-emerald-600 dark:text-emerald-400">Sai Nikhit</span>
         </div>
       </div>
     </aside>

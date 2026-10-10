@@ -71,7 +71,7 @@ const AppLayout: React.FC = () => {
           <div className="flex flex-col sm:flex-row items-center justify-center gap-1.5 sm:gap-2">
             <span>Made with <span className="text-rose-500 inline-block animate-pulse">❤️</span> for <strong className="text-slate-800 dark:text-slate-200 font-bold">DBTHON'26</strong></span>
             <span className="hidden sm:inline text-slate-300 dark:text-slate-700">•</span>
-            <span>Engineered by <strong className="text-blue-600 dark:text-blue-400 font-bold">Sai Nikhit</strong> &amp; <strong className="text-indigo-600 dark:text-indigo-400 font-bold">Sohan</strong></span>
+            <span>Engineered by <strong className="text-indigo-600 dark:text-indigo-400 font-bold">Sohan</strong> &amp; <strong className="text-blue-600 dark:text-blue-400 font-bold">Sai Nikhit</strong></span>
           </div>
         </footer>
       </main>

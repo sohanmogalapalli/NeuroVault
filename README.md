@@ -9,7 +9,7 @@
 [![React 19](https://img.shields.io/badge/React-19.2%20TypeScript-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Tailwind CSS v4](https://img.shields.io/badge/Tailwind-v4.0%20Abatable%20Style-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-**Engineered with ❤️ for DBTHON'26 by [Sai Nikhit](https://github.com/MSN-1307) & Sohan**
+**Engineered with ❤️ for DBTHON'26 by Sohan & [Sai Nikhit](https://github.com/MSN-1307)**
 
 *A persistent, zero-silo cognitive AI memory management platform that unifies vector embeddings, 3NF relational normalization, full-text inverted indexes, biological Ebbinghaus memory decay, and institutional ESG file intelligence natively inside MySQL.*
 
@@ -231,7 +231,7 @@ Included directly in this repository:
 
 ## 👥 Authors & Attribution
 
-- **Sai Nikhit** — *Lead Architecture & Full-Stack Engineering* — [@MSN-1307](https://github.com/MSN-1307)
 - **Sohan** — *Cognitive Database Engineering & System Optimization*
+- **Sai Nikhit** — *Lead Architecture & Full-Stack Engineering* — [@MSN-1307](https://github.com/MSN-1307)
 
 *Engineered with excellence for **DBTHON'26**.*

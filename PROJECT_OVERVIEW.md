@@ -1,6 +1,6 @@
 # NeuroVault — Comprehensive Project Documentation & Architecture Blueprint
 **Enterprise-Grade AI Memory Management Platform Built on MySQL 8.0+ / 8.4+**  
-*Made with ❤️ for DBTHON'26 by Sai Nikhit and Sohan*
+*Made with ❤️ for DBTHON'26 by Sohan and Sai Nikhit*
 
 ---
 

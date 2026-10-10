@@ -962,7 +962,7 @@ export const DashboardPage: React.FC = () => {
           <span>NeuroVault Autonomous Cognitive Memory System • Powered by MySQL 8.0+ InnoDB</span>
         </div>
         <div className="font-medium text-slate-600 dark:text-slate-300">
-          Made with <span className="text-rose-500">❤️</span> for <span className="font-bold text-slate-900 dark:text-white">DBTHON'26</span> by <span className="font-bold text-blue-600 dark:text-blue-400">Sai Nikhit</span> &amp; <span className="font-bold text-indigo-600 dark:text-indigo-400">Sohan</span>
+          Made with <span className="text-rose-500">❤️</span> for <span className="font-bold text-slate-900 dark:text-white">DBTHON'26</span> by <span className="font-bold text-indigo-600 dark:text-indigo-400">Sohan</span> &amp; <span className="font-bold text-blue-600 dark:text-blue-400">Sai Nikhit</span>
         </div>
       </div>
 

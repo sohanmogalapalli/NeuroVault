@@ -313,7 +313,7 @@ Multi-region MySQL failover completed within 1.2 seconds during simulated hardwa
               <span>DBTHON'26 Innovation Track</span>
             </div>
             <div className="text-[11px] text-slate-400">
-              by <span className="font-semibold text-blue-400">Sai Nikhit</span> &amp; <span className="font-semibold text-indigo-400">Sohan</span>
+              by <span className="font-semibold text-indigo-400">Sohan</span> &amp; <span className="font-semibold text-blue-400">Sai Nikhit</span>
             </div>
           </div>
         </div>
